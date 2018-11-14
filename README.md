@@ -1,4 +1,4 @@
-[Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
+![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/Alamofire/Alamofire/master/alamofire.png)
 
 [![Build Status](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/Alamofire.svg)](https://img.shields.io/cocoapods/v/Alamofire.svg)
@@ -9,7 +9,7 @@
 
 Alamofire is an HTTP networking library written in Swift.
 
-- [Features](#features)
+- [Features]()
 - [Component Libraries](#component-libraries)
 - [Requirements](#requirements)
 - [Migration Guides](#migration-guides)
