@@ -1,5 +1,5 @@
 
-
+self.textView.text = self.textView.text.isEmpty ? string : self.textView.text + "\n" + string
 
 
 # ...
